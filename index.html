@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Dots and Boxes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
+    <link href="styles/styles.css" rel = "stylesheet" type="text/css"/>
+</head>
+<body>
+    <div class = "container" id="initial-screen">
+        <div class="header-index">
+            <h1>Dots & Boxes</h1>
+        </div>
+        
+        <div class = "description">
+            <h2>How to win:</h2>
+            <p>Players take turns in drawing lines between dots on a grid. The player who completes the most boxes wins.</p>
+            <br>
+            <h2>How to play:</h2>
+            <p>
+                The game is played starting with a rectangular array of dots.<br>
+
+                The two players take turns to join two adjacent dots with a horizontal or vertical line. If a player completes the fourth side of a box they initial that box and must draw another line.
+
+                When all the boxes have been completed the winner is the player who has initialled the most boxes.
+            </p>
+        </div>
+
+        <div id="join-container">
+            <div id = "join-game-btn" class="btn">
+                Join Game
+            </div>
+            <input type="text" id="input-game-id">
+        </div>
+        <div id="error-msg"></div>
+
+        <div id = "create-game-btn" class="btn">
+            Create Game
+        </div>
+    </div>
+
+    <div id="lobby-screen">
+        <div class="header-index">
+            <h1>Dots & Boxes</h1>
+        </div>
+        <div>The game will begin once there are 3 players in the lobby.</div>
+        <div id="players-in-lobby"></div>
+        <div id="lobby-id"></div>
+        <div id = "leave-lobby-btn" class="btn">
+            Leave lobby
+        </div>
+
+    </div>
+
+    <div class = "game-board-container" id="game-screen">
+        <div class = "header-main"> 
+            <h1>Dots & Boxes</h1>
+        </div>
+        <div id="player-turn"></div>
+        <div id = "top-bar">
+            <div class= "scores-container">
+                <div id="blue-player"></div>
+                <div id="green-player"></div>
+                <div id="red-player"></div>
+            </div>
+            <div>
+                <img id = "restart-button" src= "icons/restart.png">
+            </div>
+        </div>
+        <div id="game-board">
+        </div>
+        <div id="room-id"></div>
+        <div id = "back-home-button">Go Home</div>
+
+        <div id="myModal" class="modal">
+            <div class="modal-content">
+              <div id="modal-win-text"></div>
+              <div id="modal-scores-text"></div>
+              <div id="modal-btns">
+                <div id="modal-home-btn">Home</div>
+                <div id="modal-playagain-btn">Play Again</div>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+
+</body>
+</html>

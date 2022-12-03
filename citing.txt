@@ -1,0 +1,19 @@
+- How do I create a GUID / UUID?: https://stackoverflow.com/questions/105034/how-do-i-create-a-guid-uuid
+- How to iterate over an object in js:  https://www.freecodecamp.org/news/how-to-iterate-over-objects-in-javascript/
+- Ways to Remove Elements From A JavaScript Array: https://love2dev.com/blog/javascript-remove-from-array/
+- Inspo for creating/joining game room logic: https://skribbl.io/
+- How do I remove a key from a JavaScript object?: https://stackoverflow.com/questions/3455405/how-do-i-remove-a-key-from-a-javascript-object
+- How to diagonally divide a square div into 4 clickable parts?: https://stackoverflow.com/questions/50858384/how-to-diagonally-divide-a-square-div-into-4-clickable-parts 
+- How to implement a Queue in javascript: https://blog.devgenius.io/how-to-implement-a-queue-in-javascript-8a186f69077f
+- How to detect when a mouse moves away from the element: https://stackoverflow.com/questions/49992462/how-to-detect-when-a-mouse-moves-away-from-the-element
+- Restart icon: https://icons8.com/icons/set/restart
+- div background color, to change onhover: https://stackoverflow.com/questions/676324/div-background-color-to-change-onhover
+- How to exit from setInterval: https://stackoverflow.com/questions/1795100/how-to-exit-from-setinterval
+- Making ending screen popup window: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_mo
+- How can I call clearInterval outside of a function in jQuery? Outside the setInterval: https://stackoverflow.com/questions/20745790/how-can-i-call-clearinterval-outside-of-a-function-in-jquery-outside-the-setint
+- Capitalize first letter in a string helper function: https://stackoverflow.com/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript
+- center a div horiztonally and vertically: https://stackoverflow.com/questions/356809/best-way-to-center-a-div-on-a-page-vertically-and-horizontally
+- how to play and how to win description: http://www.papg.com/show?1TMU
+- how to host a website using google drive: https://www.youtube.com/watch?v=nPx7s1sWqvs&ab_channel=WorkSmart
+- Make game id: 51:09 https://www.youtube.com/watch?v=ppcBIHv_ZPs&ab_channel=TraversyMedia
+- build server: https://www.youtube.com/watch?v=cXxEiWudIUY&t=2471s&ab_channel=HusseinNasser
